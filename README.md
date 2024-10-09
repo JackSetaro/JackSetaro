@@ -1,6 +1,6 @@
 ## Hey, I'm [Jack Setaro][website] 👋 
 - 👀 I’m interested in technology
-- 🌱 I’m currently learning Computer Science at UCONN
+- 🌱 I’m currently working at VISTECH
 - 💞️ I’m looking to collaborate on web development or game development
 - 📫 How to reach me, Jacksetaro@gmail.com
 ### Connect with me:
