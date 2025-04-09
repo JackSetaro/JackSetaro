@@ -1,5 +1,10 @@
 ## Hey, I'm [Jack Setaro][website] 👋 
-- 👀 I’m interested in technology
+
+## 💻 Fullstack Developer | ✈️ Avid Travler
+
+I'm a fullstack developer currently working in Web Development. I love learning new technolgies and optimizing my code. In my free time I love nothing more than to travel the world!
+
+- 👀 I’m interested in emerging technology
 - 🌱 I’m currently working at VISTECH
 - 💞️ I’m looking to collaborate on web development or game development
 - 📫 How to reach me, Jacksetaro@gmail.com
@@ -13,20 +18,14 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][html]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][html]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][CSS]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][Github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"/>][Terminal] 
-[<img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"/>][linux] 
+[![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,dotnet,tailwind,azure,react,vercel,nextjs,linux,jest,jquery,gulp,git,apple,npm,nodejs)](https://skillicons.dev)
 
-<br />
 <br />
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacksetaro&show_icons=true&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<br />
-<br />
+### 🧰 My Background
+- Computer Science Degree from the University of Connecticut
 
 <!-- Links -->
 [website]: https://jacksetaro.com
@@ -41,3 +40,4 @@
 [Github]: https://github.com/
 [Terminal]: https://en.wikipedia.org/wiki/Computer_terminal
 [Linux]: https://www.linux.org/
+
