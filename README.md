@@ -18,7 +18,7 @@ I'm a fullstack developer currently working in Web Development. I love learning 
 <br />
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=html,js,css,cs,dotnet,tailwind,azure,react,vercel,nextjs,linux,jest,jquery,gulp,git,apple,npm,nodejs)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,css,cs,dotnet,tailwind,azure,react,vercel,nextjs,linux,jest,jquery,gulp,git,apple,npm,nodejs)](https://skillicons.dev)
 
 <br />
 
